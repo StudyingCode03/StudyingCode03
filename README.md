@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **sofyanphilipmoustakim@gmail.com**
 
-- ⚡ Fun fact **I don't go outisde**
+- 📚 Currently focusing on **Data Science, Cybersecurity, and Competitive Programming**
+
+- ⚡ Fun fact **I don't go outside**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
