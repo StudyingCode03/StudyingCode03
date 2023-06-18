@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cyphopy</h1>
+<h1 align="center">Hi 🤓, I'm cyphopy</h1>
 <h3 align="center">Can work on pretty much anything and available 24/7</h3>
 
 - 📫 How to reach me **sofyanphilipmoustakim@gmail.com**
